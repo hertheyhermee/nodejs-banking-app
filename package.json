@@ -1,0 +1,19 @@
+{
+  "name": "banking-app",
+  "version": "1.0.0",
+  "description": "This is a simple bank app project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/hertheyhermee/nodejs-banking-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hertheyhermee/nodejs-banking-app/issues"
+  },
+  "homepage": "https://github.com/hertheyhermee/nodejs-banking-app#readme"
+}
